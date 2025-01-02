@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript, Python, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring
-- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Frameworks:** VueJS, Angular, React, Node.js, SpringDB
+- **Tools:** Git, Docker, ChatGPT 4o
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## 🛠️ Projects
