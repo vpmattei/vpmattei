@@ -9,13 +9,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## 🛠️ Projects
-### [Hebald Forest]([https://github.com/vpmattei/project1](https://vinicius-mattei-portfolio.vercel.app/works/hebald-forest))
+### [Hebald Forest]((https://vinicius-mattei-portfolio.vercel.app/works/hebald-forest))
 A 3D Open World Adventure game. Developed using Unreal 5 and and its latests technologies like Lumen and Nanite to achieve the best looking game.
 
-### [Anamnesis]([https://github.com/vpmattei/project2](https://vinicius-mattei-portfolio.vercel.app/works/anamnesis))
+### [Anamnesis]((https://vinicius-mattei-portfolio.vercel.app/works/anamnesis))
 A VR Narrative Game Experience. This project is focused on giving a unique VR experience, telling the story of someone who forgot who he was and needs to recollect his memories. Developed in Unity.
 
-### [Kentyou Dashboard Redesign]([https://github.com/vpmattei/project3](https://vinicius-mattei-portfolio.vercel.app/works/kentyou))
+### [Kentyou Dashboard Redesign]((https://vinicius-mattei-portfolio.vercel.app/works/kentyou))
 A redesign of Kentyou's website. Designed the UI and UX using Figma, and later developed and implemented it in VueJS.
 
 ## 🌱 What I'm currently learning
@@ -24,7 +24,7 @@ A redesign of Kentyou's website. Designed the UI and UX using Figma, and later d
 - Web Development
 
 ## 💬 Let's Connect!
-- [LinkedIn]([https://www.linkedin.com/in/vpmattei](https://www.linkedin.com/in/vinícius-mattei/))
+- [LinkedIn]((https://www.linkedin.com/in/vinícius-mattei/))
 - [Email](mailto:viniciuspmattei@gmail.com)
 
 ## 📊 GitHub Stats
