@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🔧 Technologies & Tools
 - **Languages:** TypeScript, JavaScript, Python, Java, C++, C#, R
-- **Frameworks:** VueJS, Angular, React, Node.js, SpringDB
+- **Frameworks:** VueJS, Angular, React, Node.js, SpringDB, DJango
 - **Tools:** Git, Docker, ChatGPT 4o
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
