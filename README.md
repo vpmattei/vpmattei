@@ -3,12 +3,16 @@
 Welcome to my GitHub profile! I'm a passionate software developer with a love for coding and solving complex problems. Here you can find some of my projects and contributions. Feel free to explore and reach out if you have any questions or suggestions.
 
 ## 🔧 Technologies & Tools
-- **Languages:** TypeScript, JavaScript, Python, Java, C++, C#, R
-- **Frameworks:** VueJS, Angular, React, Node.js, SpringDB, DJango
+- **Languages:** TypeScript, JavaScript, Python, Java, C++, C#, R, Kotlin
+- **Frameworks:** VueJS, Angular, React, Node.js, SpringDB, DJango, Jetpack Compose
 - **Tools:** Git, Docker, ChatGPT 4o
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## 🛠️ Projects
+### [Pokedex App]((https://github.com/vpmattei/pokedex-app))
+An application that mimics a pokedex from the Pokemon series.
+
+## 🎮 Games
 ### [Hebald Forest]((https://vinicius-mattei-portfolio.vercel.app/works/hebald-forest))
 A 3D Open World Adventure game. Developed using Unreal 5 and and its latests technologies like Lumen and Nanite to achieve the best looking game.
 
